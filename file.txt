@@ -1,2 +1,2 @@
-this is git test txt
+this is git test txt hot fix 1
 hot-fix first fix
