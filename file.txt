@@ -4,3 +4,4 @@ hot-fix first fix
 content edited on the Github
 content edited for watching ssh link
 call back for ssh link
+give push/pull power
